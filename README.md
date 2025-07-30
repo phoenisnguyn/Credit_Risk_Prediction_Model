@@ -7,4 +7,4 @@ A Machine Learning model for predicting credit risk using algorithms like CatBoo
 - Multidimensional analysis of factors influencing credit risk
 - Predictive modeling with CatBoost (AUC 95%)
 - Handling imbalanced data and multicollinearity
--Performance comparison across multiple algorithm
+- Performance comparison across multiple algorithm
