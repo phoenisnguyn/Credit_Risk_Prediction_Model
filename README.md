@@ -1,8 +1,9 @@
 # Credit Risk Prediction Model
 
+### Detail: [Here](https://github.com/phoenisnguyn/Credit_Risk_Prediction_Model/blob/main/Credit_Risk_final%20(2).ipynb)
+
 A Machine Learning model for predicting credit risk using algorithms like CatBoost and XGBoost, achieving an accuracy of 93.87%. The project focuses on quantitative analysis and classification to build an effective loan approval strategy.
 
-### Detail: [Here](https://github.com/phoenisnguyn/Credit_Risk_Prediction_Model/blob/main/Credit_Risk_final%20(2).ipynb)
 
 
 ## 🚀 Key Features
