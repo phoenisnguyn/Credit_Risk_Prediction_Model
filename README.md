@@ -15,7 +15,7 @@ A Machine Learning model for predicting credit risk using algorithms like CatBoo
 
 ## 🧠 Credit Risk Prediction App
 
-### Try the app live [**Here**](https://creditriskapp-vsxpewncyjc3zkplnb5yhu.streamlit.app/)
+### Try the app live: [**Here**](https://creditriskapp-vsxpewncyjc3zkplnb5yhu.streamlit.app/)
 
 > ⚠️ **Note:** The app may take a few seconds to load initially, as it is hosted on **Streamlit Community Cloud** (free tier), which can introduce some startup delay.
 
